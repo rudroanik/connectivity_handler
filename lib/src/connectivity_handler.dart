@@ -9,7 +9,7 @@ class ConnectivityHandler extends StatelessWidget{
 
   ConnectivityHandler(this._widget,{Key? key}) : super(key: key);
 
-  final _networkManager = NetworkManager();
+  final _networkManager =  Get.put(NetworkManager());
 
   @override
   Widget build(BuildContext context) {
