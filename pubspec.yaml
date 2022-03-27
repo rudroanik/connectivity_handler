@@ -1,6 +1,6 @@
 name: connectivity_handler
-description: Using this package you can handle your internet connectivity easyly.
-version: 0.0.3
+description: You can handle your internet connectivity easily using this package.
+version: 0.0.4
 homepage: https://github.com/rudroanik/connectivity_handler.git
 
 environment:
